@@ -1,0 +1,20 @@
+.empty-square {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(51, 51, 51);
+    margin: 1px;
+}
+
+.snake-square {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(25, 106, 255);
+    margin: 1px;
+}
+
+.pellet-square {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(255, 155, 23);
+    margin: 1px;
+}
